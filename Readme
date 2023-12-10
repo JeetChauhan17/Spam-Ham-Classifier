@@ -6,3 +6,7 @@ This Project encompasses many topics in NLP. Topics such as Tokenization, Removi
 This project works basically by reducing the contents of message into keywords with no punctuations and using that to train a model which can then classify new unseen messages into Spam or Ham.
 
 NLTK- Natural Language Toolkit- The NLTK is the most utilised package for handling natural language processing tasks. It is an open source library.
+
+Open this file using Google Colab. Thanks for Viewing!
+
+MADE BY :- <Jeet Chauhan/>.
